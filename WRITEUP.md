@@ -6,6 +6,7 @@
 
 # Team Contribution
 Claire: 
+
 Macy: Identifying dataset, ExtraTreesClassifier and RandomForestClassifier models with corresponding evaluations, and conclusion
 
 # Link to dataset (origin of data): 
